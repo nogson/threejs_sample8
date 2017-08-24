@@ -101,7 +101,7 @@
             color: 0xFFFFFF,
             colorRandomness: 0.2,
             turbulence: 0.5,
-            lifetime: 3,
+            lifetime: 1,
             size: 6,
             sizeRandomness: 1,
             containerCount: 1,
