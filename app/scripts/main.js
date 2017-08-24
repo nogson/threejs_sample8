@@ -112,7 +112,7 @@
         let clock = new THREE.Clock();
 
         //パーティクルの周りに飛ぶキラキラの数？
-        let spawnRate = 20000;
+        let spawnRate = 15000;
         //横方向のスピード
         let horizontalSpeed = 0.1;
         //縦方向のスピード
